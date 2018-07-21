@@ -1,18 +1,20 @@
 [
   {
-    "username": "admin",
-    "password": "password"
+    "zoom": 11,
+    "lngLat": [-119.0190334, 35.375851],
+    "locationName": "Jerrys",
+    "locationId": "jerrys"
   },
   {
-    "username": "root",
-    "password": "password"
+    "zoom": 10,
+    "lngLat": [-119.0177673, 35.3761074],
+    "locationName": "The Mint",
+    "locationId": "the-mint"
   },
   {
-    "username": "test",
-    "password": "password"
-  },
-  {
-    "username": "demo",
-    "password": "password"
+    "zoom": 8,
+    "lngLat": [-119.0715228, 35.321813],
+    "locationName": "NextDoor",
+    "locationId": "nextdoor"
   }
 ]
